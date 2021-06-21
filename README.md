@@ -4,7 +4,7 @@
 
 Supplemental data for the article 
 
-Douglas, Jordan, et al. "Phylodynamics reveals the role of human travel and contact tracing in controlling COVID-19 in four island nations." medRxiv (2020).
+Douglas, Jordan, and Mendes, Fabio, et al. "Phylodynamics reveals the role of human travel and contact tracing in controlling COVID-19 in four island nations." medRxiv (2020).
 
 
 
